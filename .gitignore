@@ -1,0 +1,8 @@
+ai.sublime-project
+ai.sublime-workspace
+
+.classpath
+.project
+.settings/
+
+*.pyc
